@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tsp0305/LeetCode/tree/master/0412-fizz-buzz) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/tsp0305/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tsp0305/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/tsp0305/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Divide and Conquer
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tsp0305/LeetCode/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/tsp0305/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
