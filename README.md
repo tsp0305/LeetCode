@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tsp0305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/tsp0305/LeetCode/tree/master/0724-find-pivot-index) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/tsp0305/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tsp0305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/tsp0305/LeetCode/tree/master/0782-jewels-and-stones) |
 ## String
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tsp0305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
