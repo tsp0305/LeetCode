@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/tsp0305/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/tsp0305/LeetCode/tree/master/0412-fizz-buzz) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/tsp0305/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsp0305/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/tsp0305/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
