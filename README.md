@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsp0305/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/tsp0305/LeetCode/tree/master/0724-find-pivot-index) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/tsp0305/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1256-rank-transform-of-an-array](https://github.com/tsp0305/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/tsp0305/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/tsp0305/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Prefix Sum
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsp0305/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/tsp0305/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/tsp0305/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1256-rank-transform-of-an-array](https://github.com/tsp0305/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsp0305/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/tsp0305/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Union Find
 |  |
 | ------- |
