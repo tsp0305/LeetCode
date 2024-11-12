@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsp0305/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/tsp0305/LeetCode/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/tsp0305/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/tsp0305/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/tsp0305/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/tsp0305/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tsp0305/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/tsp0305/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/tsp0305/LeetCode/tree/master/0338-counting-bits) |
+| [0747-min-cost-climbing-stairs](https://github.com/tsp0305/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tsp0305/LeetCode/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
