@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tsp0305/LeetCode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/tsp0305/LeetCode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/tsp0305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/tsp0305/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/tsp0305/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsp0305/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/tsp0305/LeetCode/tree/master/0198-house-robber) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tsp0305/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tsp0305/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/tsp0305/LeetCode/tree/master/0338-counting-bits) |
