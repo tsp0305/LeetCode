@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/tsp0305/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/tsp0305/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/tsp0305/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2238-a-number-after-a-double-reversal](https://github.com/tsp0305/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Hash Table
 |  |
 | ------- |
