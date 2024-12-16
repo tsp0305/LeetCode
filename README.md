@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tsp0305/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/tsp0305/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsp0305/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/tsp0305/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tsp0305/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tsp0305/LeetCode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tsp0305/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/tsp0305/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/tsp0305/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tsp0305/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/tsp0305/LeetCode/tree/master/0412-fizz-buzz) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tsp0305/LeetCode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsp0305/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/tsp0305/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/tsp0305/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/tsp0305/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsp0305/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
