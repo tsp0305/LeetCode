@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tsp0305/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tsp0305/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/tsp0305/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tsp0305/LeetCode/tree/master/0189-rotate-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tsp0305/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tsp0305/LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/tsp0305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tsp0305/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tsp0305/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tsp0305/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/tsp0305/LeetCode/tree/master/0038-count-and-say) |
