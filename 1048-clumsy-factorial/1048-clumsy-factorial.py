@@ -1,16 +1,9 @@
 class Solution:
     def clumsy(self, n: int) -> int:
-        # Stack that we will use to perform the calculations
-        stack = [n]
         
-        # Which operation to perform
-        # 1 -> Multiplication
-        # 2 -> Division
-        # 3 -> Addition
-        # 4 -> Subtraction
+        stack = [n]
         operation = 1
         
-        # Go through each value from n - 1 to 1
         for i in range(n-1, 0, -1):
             operation %= 4
             
@@ -24,6 +17,6 @@ class Solution:
                 
             operation += 1
         
-        # Finally, just return the sum of all values in the stack
+       
         return sum(stack)
         
