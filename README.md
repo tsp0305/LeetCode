@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/tsp0305/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/tsp0305/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/tsp0305/LeetCode/tree/master/1013-fibonacci-number) |
+| [1048-clumsy-factorial](https://github.com/tsp0305/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1236-n-th-tribonacci-number](https://github.com/tsp0305/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/tsp0305/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/tsp0305/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/tsp0305/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/tsp0305/LeetCode/tree/master/0682-baseball-game) |
+| [1048-clumsy-factorial](https://github.com/tsp0305/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1806-count-of-matches-in-tournament](https://github.com/tsp0305/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tsp0305/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/tsp0305/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/tsp0305/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/tsp0305/LeetCode/tree/master/0682-baseball-game) |
+| [1048-clumsy-factorial](https://github.com/tsp0305/LeetCode/tree/master/1048-clumsy-factorial) |
 ## Tree
 |  |
 | ------- |
