@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/tsp0305/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tsp0305/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/tsp0305/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tsp0305/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tsp0305/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tsp0305/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsp0305/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsp0305/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
