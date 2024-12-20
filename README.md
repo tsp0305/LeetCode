@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/tsp0305/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/tsp0305/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/tsp0305/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0907-koko-eating-bananas](https://github.com/tsp0305/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/tsp0305/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/tsp0305/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/tsp0305/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsp0305/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tsp0305/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tsp0305/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0907-koko-eating-bananas](https://github.com/tsp0305/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
